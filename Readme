@@ -1,0 +1,146 @@
+
+WWW 2024 谣言/假新闻/AI生成文本检测、事实核查论文汇总（14篇，附链接+视频）
+交叉综合类顶级会议The 2024 ACM Web Conference （TheWebConf 2024或WWW 2024）已放出了录用论文清单，大会将于2024年5月13日至5月17日在新加坡举办。本次会议共收到2008篇投稿，较去年有小幅上涨，共接收406篇论文，录用率为20.2%。
+本文主要整理了14篇谣言和假新闻检测、事实核查、AI生成文本检测方向的论文，并附上了已公开预印版和文字/视频介绍链接。相较于去年，该方向论文数量有一定增长。
+
+Research Track（8篇）
+[基于大语言模型] Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom
+
+Bo Wang, Jing Ma, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang
+
+吉林大学、香港浸会大学
+
+文字介绍：https://sai.jlu.edu.cn/info/1026/4582.htm
+
+视频介绍：https://www.youtube.com/watch?v=m7DsFmHrdUI
+
+
+
+[测试时训练；跨领域检测] T$^3$RD: Test-Time Training for Rumor Detection on Social Media
+
+Huaiwen Zhang, Xin Xin Liu, Qing Yang, Yang Yang, Fan Qi, Shengsheng Qian, Changsheng Xu
+
+内蒙古大学、天津理工大学、中国科学院自动化研究所
+
+视频介绍：https://www.youtube.com/watch?v=Ff7B1-MRpdI
+
+
+
+[基于语法结构] MSynFD: Multi-hop Syntax aware Fake News Detection
+
+Liang Xiao, Qi Zhang, Chongyang Shi, Shoujin Wang, Usman Naseem, Liang Hu
+
+北京理工大学、同济大学、悉尼科技大学、麦考瑞大学
+
+预印版：https://arxiv.org/abs/2402.14834
+
+视频介绍：https://www.youtube.com/watch?v=cd-j8lm3zhU
+
+
+
+[多来源中文数据集] MCFEND: A Multi-source Benchmark Dataset for Chinese Fake News Detection
+
+Yupeng Li, Haorui He, Bai Jin, Dacheng Wen
+
+香港浸会大学、香港中文大学（深圳）、北京师范大学-香港浸会大学联合国际学院、香港大学
+
+预印版：https://arxiv.org/abs/2403.09092
+
+
+
+[基于语义演化] Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection
+
+Xiang Tao, Liang Wang, Qiang Liu, Shu Wu, Liang Wang
+
+中国科学院自动化研究所
+
+视频介绍：https://www.youtube.com/watch?v=SNashjsxgGo
+
+
+
+[中文多模态事实核查数据及模型] ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking
+
+Fanrui Zhang, Jiawei Liu, Jingyi Xie, Qiang Zhang, Yongchao Xu, Zheng-Jun Zha
+
+中国科学技术大学
+
+视频介绍：https://www.youtube.com/watch?v=mj_IZHeOQTI
+
+
+
+[虚假信息传播者“被关注”分析] The Dynamics of (Not) Unfollowing Misinformation Spreaders
+
+Joshua Ashkinaze, Eric Gilbert, Ceren Budak
+
+密歇根大学
+
+预印版：https://arxiv.org/abs/2401.13480
+
+视频介绍：https://www.youtube.com/watch?v=_dU_mGr3CnI
+
+
+
+[基于异构图网络] Heterogeneous Subgraph Transformer for Fake News Detection
+
+Yuchen Zhang, Xiaoxiao Ma, Jia Wu, Jian Yang, Hao Fan
+
+武汉大学、麦考瑞大学
+
+Short Papers（6篇）
+
+
+[谣言检测中的样本不平衡] Dual Graph Networks with Synthetic Oversampling for Imbalanced Rumor Detection on Social Media
+
+Yen-Wen Lu, Chih-Yao Chen and Cheng-Te Li
+
+成功大学、北卡罗来纳大学教堂山分校
+
+视频介绍：https://www.youtube.com/watch?v=arP40L3vVN4
+
+
+
+[谣言传播缓解] Rumor Mitigation in Social Networks with Deep Reinforcement Learning
+
+Hongyuan Su, Yu Zheng, Jingtao Ding, Depeng Jin and Yong Li
+
+清华大学
+
+预印版：https://arxiv.org/abs/2403.09217
+
+
+
+[AI生成广告检测] Detecting Generated Native Ads in Conversational Search
+
+Sebastian Schmidt, Ines Zelch, Janek Bevendorff, Benno Stein, Matthias Hagen and Martin Potthast
+
+莱比锡大学、耶拿·弗里德里希·席勒大学、魏玛包豪斯大学
+
+预印版：https://arxiv.org/abs/2402.04889
+
+
+
+[AI生成文本检测数据集及方法] GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method
+
+Zubair Qazi, William Shiao and Evangelos Papalexakis
+
+加州大学河滨分校
+
+预印版：https://arxiv.org/abs/2403.07321
+
+
+
+[AI生成新闻] From Creation to Clarification: ChatGPT's Journey Through the Fake News Quagmire
+
+Yue Huang, Kai Shu, Philip S. Yu, Lichao Sun
+
+圣母大学、伊利诺伊理工大学、伊利诺伊大学芝加哥分校、里海大学
+
+
+
+[新发事件下的虚假新闻检测] Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19
+
+Migyeong Yang, Chaewon Park, Jiwon Kang, Daeun Lee, Daejin Choi and Jinyoung Han
+
+韩国成均馆大学
+
+代码链接：https://github.com/DSAIL-SKKU/Fighting_Against_FakeNews_on_Emerging_Crisis-WWW24
